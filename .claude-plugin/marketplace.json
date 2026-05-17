@@ -1,0 +1,12 @@
+{
+  "name": "welgo-va",
+  "owner": {"name": "Ed Gomberg", "email": "edgomberg@gmail.com"},
+  "description": "Welgo Virtual Assistant plugin — restricted scope, propose-to-Sese workflow",
+  "plugins": [
+    {
+      "name": "welgo-va-plugin",
+      "source": "./plugins/welgo-va-plugin",
+      "description": "Welgo VA plugin — read canonical, propose new functionality to Sese, cannot edit existing sources"
+    }
+  ]
+}
