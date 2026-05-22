@@ -1,7 +1,10 @@
 {
   "name": "welgo-va-plugin",
-  "version": "0.1.0",
-  "description": "Welgo VA plugin — Welgo Brain access scoped to read-and-propose. Cannot modify canonical sources or features. Proposes new functionality to Sese for review.",
-  "author": {"name": "Ed Gomberg", "email": "edgomberg@gmail.com"},
+  "version": "0.2.0",
+  "description": "Welgo VA plugin \u2014 Welgo Brain access scoped to read-and-propose. Cannot modify canonical sources or features. Proposes new functionality to Sese for review.",
+  "author": {
+    "name": "Ed Gomberg",
+    "email": "edgomberg@gmail.com"
+  },
   "license": "Private"
 }
